@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zacha\\source\\repos\\Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|c:\\users\\zacha\\source\\repos\\calendar\\calendar\\eventdisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventdisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\editevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\editevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|c:\\users\\zacha\\source\\repos\\calendar\\calendar\\editevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\editevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\usercontroldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\eventdisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventdisplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|C:\\Users\\zacha\\source\\repos\\Calendar\\calendar\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{098EABE5-5B56-4534-A232-AB279A32F877}|Calendar\\Calendar.csproj|solutionrelative:calendar\\eventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar\\Form1.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeToolTip": "Calendar\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:36:55.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlDays.cs",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "Calendar\\UserControlDays.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeToolTip": "Calendar\\UserControlDays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:59:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventForm.cs",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\EventForm.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventForm.cs",
+              "RelativeToolTip": "Calendar\\EventForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:06:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "editEvent.cs",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\editEvent.cs",
+              "RelativeDocumentMoniker": "Calendar\\editEvent.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\editEvent.cs",
+              "RelativeToolTip": "Calendar\\editEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:09:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDisplayForm.cs",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventDisplayForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\EventDisplayForm.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventDisplayForm.cs",
+              "RelativeToolTip": "Calendar\\EventDisplayForm.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwKcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:27:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\Form1.cs",
+              "RelativeDocumentMoniker": "Calendar\\Form1.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\Form1.cs [Design]",
+              "RelativeToolTip": "Calendar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:08:47.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editEvent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\editEvent.cs",
+              "RelativeDocumentMoniker": "Calendar\\editEvent.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\editEvent.cs [Design]",
+              "RelativeToolTip": "Calendar\\editEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:47:24.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlDays.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs",
+              "RelativeDocumentMoniker": "Calendar\\UserControlDays.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\UserControlDays.cs [Design]",
+              "RelativeToolTip": "Calendar\\UserControlDays.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:44:41.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDisplayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventDisplayForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\EventDisplayForm.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventDisplayForm.cs [Design]",
+              "RelativeToolTip": "Calendar\\EventDisplayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:27:08.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventForm.cs",
+              "RelativeDocumentMoniker": "Calendar\\EventForm.cs",
+              "ToolTip": "C:\\Users\\zacha\\source\\repos\\Calendar\\Calendar\\EventForm.cs [Design]",
+              "RelativeToolTip": "Calendar\\EventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:56:41.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
